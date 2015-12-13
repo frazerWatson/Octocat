@@ -1,1 +1,1 @@
-What is a branch?
+Each time you add something new to your local repository and stage it before commiting, you make a new branch, which is saved to your repository as a point in time where a change was made.
